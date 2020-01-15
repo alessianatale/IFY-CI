@@ -57,8 +57,6 @@ public class UtenzaController {
 	public String login(HttpServletRequest request, @ModelAttribute LoginForm loginForm, BindingResult result,
 			RedirectAttributes redirectAttribute, Model model) {
 
-		System.out.println(loginForm.getEmail());
-
 		Utente utente = null;
 
 		loginFormValidator.validate(loginForm, result);
