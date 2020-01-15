@@ -1,0 +1,11 @@
+
+*.class
+*.class
+*.class
+target/classes/it/unisa/di/is/gc1/ify/convenzioni/Azienda.class
+*.class
+target/failsafe-reports/failsafe-summary.xml
+target/classes/it/unisa/di/is/gc1/ify/convenzioni/Azienda.class
+target/IFY/resources/css/materialize.min.css
+target/IFY/resources/css/materialize.min.css.map
+target/IFY/resources/css/modern-business.css
